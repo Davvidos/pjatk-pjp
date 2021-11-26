@@ -1,0 +1,3 @@
+Duży projekt	Kryspin Kaźmierczak	Oskar Baranowski	Miłosz Jasiński	Aureliusz Kowalczyk
+Zwykly projekt	Kryspin Kaźmierczak	Oskar Baranowski	Miłosz Jasiński
+Maly Projekt	Kryspin Kaźmierczak	Oskar Baranowski
