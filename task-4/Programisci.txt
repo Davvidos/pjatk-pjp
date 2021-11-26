@@ -1,0 +1,4 @@
+Kryspin Kaźmierczak	Maly Projekt	Zwykly projekt	Duży projekt
+Oskar Baranowski	Maly Projekt	Zwykly projekt	Duży projekt
+Miłosz Jasiński	Zwykly projekt	Duży projekt
+Aureliusz Kowalczyk	Duży projekt
